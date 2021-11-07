@@ -15,12 +15,14 @@ We will use mysql workbench (mysql <-> jupyter notebook) so download it using th
 
 *follow this to download mysql https://www.youtube.com/watch?v=OM4aZJW_Ojs
 
-
-
-![Recommended](lecture_images/recommended.JPG)
-
-
+**NOT RECOMMENDED IN OUR CASE**
 ![Recommended](lecture_images/notrecommended.JPG)
 
 
+**RECOMMENDED IN OUR CASE**
+![Recommended](lecture_images/recommended.JPG)
+
+
+
+**EXPORTING DB TO CSV**
 ![Exporting db to .csv for visualizing in Tableau](lecture_images/HowToExporttheDBtoCsv.JPG)
