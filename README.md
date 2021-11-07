@@ -20,7 +20,7 @@ We will use mysql workbench (mysql <-> jupyter notebook) so download it using th
 ![Recommended](lecture_images/recommended.JPG)
 
 
-![Recommended](lecture_images/not_recommended.JPG)
+![Recommended](lecture_images/notrecommended.JPG)
 
 
-![Exporting db to .csv for visualizing in Tableau](lecture_images/how to export the db to csv.JPG)
+![Exporting db to .csv for visualizing in Tableau](lecture_images/HowToExporttheDBtoCsv.JPG)
